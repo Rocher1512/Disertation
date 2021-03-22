@@ -16,7 +16,7 @@ CN = 0
 EMCI = 1
 LMCI = 2
 
-for i in range(len(listofCN)-150):
+for i in range(len(listofCN)):
     print(i)
     Brain_Data = []
     #cn
